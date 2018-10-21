@@ -13,7 +13,10 @@ App({
       
     });
   },
-  
+
+
+
+
   globalData: {
     userInfo: {
       nickname: 'Hi,游客',
